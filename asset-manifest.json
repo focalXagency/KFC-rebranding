@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/KFC-rebranding/static/css/main.b5288b3d.css",
-    "main.js": "/KFC-rebranding/static/js/main.84efc9c6.js",
+    "main.js": "/KFC-rebranding/static/js/main.0aa2a36e.js",
     "static/media/food bag 2.svg": "/KFC-rebranding/static/media/food bag 2.a3d49dfec454785ba280cf8e0ddfd7b7.svg",
     "static/media/food bag 1.svg": "/KFC-rebranding/static/media/food bag 1.bf4c4e137346908ea629144bc1ebf95c.svg",
     "static/media/empty-bucket- 3.svg": "/KFC-rebranding/static/media/empty-bucket-835c4f452fae1420a288523f2c1ead2b 3.a2d49c44761f00eda45127b81bdcbfcd.svg",
@@ -67,10 +67,10 @@
     "static/media/bars.svg": "/KFC-rebranding/static/media/bars.8cfdf0d4e690698436774bffc2098249.svg",
     "static/media/arrow.svg": "/KFC-rebranding/static/media/arrow.f1c576b2c40e7b13cf05a38f1a813ffe.svg",
     "main.b5288b3d.css.map": "/KFC-rebranding/static/css/main.b5288b3d.css.map",
-    "main.84efc9c6.js.map": "/KFC-rebranding/static/js/main.84efc9c6.js.map"
+    "main.0aa2a36e.js.map": "/KFC-rebranding/static/js/main.0aa2a36e.js.map"
   },
   "entrypoints": [
     "static/css/main.b5288b3d.css",
-    "static/js/main.84efc9c6.js"
+    "static/js/main.0aa2a36e.js"
   ]
 }
